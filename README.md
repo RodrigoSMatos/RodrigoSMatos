@@ -26,29 +26,26 @@
 
 ## 📊 Projetos em Destaque
 
-### 🏦 Análise de Risco de Crédito
-**SQL + MySQL + Power BI**
-
-Projeto de análise de risco de crédito utilizando banco de dados relacional, consultas SQL, segmentação de clientes e dashboard desenvolvido no Power BI.
-
-**Principais atividades:**
-- Modelagem e organização dos dados
-- Consultas SQL com JOINs e agregações
-- Análise de inadimplência
-- Segmentação de clientes por nível de risco
-- Desenvolvimento de dashboard no Power BI
-
-🔗 [Ver projeto](#)
-
----
-
-### 📈 Projetos de Data Analytics
-
-Projetos desenvolvidos para praticar análise, tratamento e visualização de dados utilizando ferramentas do ecossistema de Data Analytics.
-
-🔎 Em desenvolvimento
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Análise de Risco de Crédito</h3>
+      <p>
+        Análise de risco de crédito utilizando SQL, MySQL e Power BI,
+        com segmentação de clientes e indicadores de inadimplência.
+      </p>
+      <p><strong>SQL • MySQL • Power BI</strong></p>
+    </td>
+    <td width="50%">
+      <h3>📈 Análise de Dados</h3>
+      <p>
+        Projetos desenvolvidos para praticar tratamento,
+        exploração e visualização de dados.
+      </p>
+      <p><strong>SQL • Power BI • Excel</strong></p>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Desenvolvimento de Software
 
